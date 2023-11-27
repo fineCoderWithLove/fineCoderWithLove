@@ -1,9 +1,10 @@
 ### Hi there 👋
+### I am zhengzitong  from china shanxi Third Grage in  SNUT 
 ### This is how many visitor
 ![Visitor Count](https://profile-counter.glitch.me/fineCoderWithLove/count.svg)  
 ****
 **fineCoderWithLove/fineCoderWithLove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-** from china shanxi Third Grage in  SNUT 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently study on Snut
